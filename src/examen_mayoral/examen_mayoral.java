@@ -4,7 +4,7 @@ public class examen_mayoral {
 	public static void main(String[] args) {
 		printOne();
 		printOne();
-		printTwo();
+
 	}
 	
 	public static void printOne() {
